@@ -1,0 +1,28 @@
+.title{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+ul li:hover{
+  background-color: gray;
+
+}
+
+.nav-pills .nav-link {
+
+    width: 14.063rem;
+}
+
+.logo-img {
+  width: 40px; 
+  height: auto; 
+  margin-top: -30px;
+  margin-left: -0.5rem;
+  margin-right: 0.188rem;
+ /* margin-left: -7.5rem; */
+}
+
+.OutletDiv{
+  overflow-y: scroll;
+}

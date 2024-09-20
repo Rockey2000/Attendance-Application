@@ -1,0 +1,17 @@
+.headerLabel1 {
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #191919 !important;
+  font-size: larger !important;
+cursor: pointer;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.header{
+  float: left;
+}
+
+.downloadBtn{
+  border-radius: 10px;
+  float: right;
+  padding: 0.65625rem 1.09375rem;
+}
